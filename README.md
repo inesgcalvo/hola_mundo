@@ -1,5 +1,4 @@
 # hola_mundo
-¡Hola Mundo! 
 
 Este es mi primer repositorio de github
 

@@ -1,6 +1,8 @@
 # hola_mundo
+# hello_world
 
-Este es mi primer repositorio de github
+This is, obvuously, my first github repository
 
-* [Visita my Linkedin](https://www.linkedin.com/in/ines-g-calvo/)
-* [Visita my twitter](https://twitter.com/inesgcalvo)
+
+* [My Linkedin](https://www.linkedin.com/in/ines-g-calvo/)
+* [My twitter](https://twitter.com/inesgcalvo)
